@@ -20,7 +20,7 @@ The formulae are written in LaTeX, and can be compiled into PDFs using the inclu
 Contributors
 ============
 * [Richard Morris](https://github.com/khiron)
-
+* [Manreet Kaur]()
 
 
 License
